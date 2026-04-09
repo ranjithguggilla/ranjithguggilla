@@ -69,4 +69,4 @@ Git • Docker • GitHub Actions • Linux
 
 ---
 
-*Building practical intelligent systems with engineering discipline and research depth.*
+*Focused on building deployable intelligent systems that combine research thinking with production discipline.*
