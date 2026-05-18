@@ -1,6 +1,6 @@
 ## Ranjith Guggilla
 
-**Research Data Engineer** · Harte Research Institute, Texas A&M University–Corpus Christi
+**Research Data Engineer**
 
 Building tools for oceanographic data curation, metadata compliance, and FAIR data publication.
 
