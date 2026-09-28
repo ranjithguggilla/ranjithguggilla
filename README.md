@@ -29,14 +29,14 @@ I build Retrieval-Augmented Generation apps with Azure OpenAI, LangChain, and Az
 <tr>
 <td width="50%" valign="top">
 
-#### [churn-guardian](https://github.com/ranjithguggilla/churn-guardian)
+#### [churn-radar](https://github.com/ranjithguggilla/churn-radar)
 Customer churn early-warning system. Compares logistic regression, random forest, and XGBoost (ROC-AUC 0.845), reaches 50% of churners by calling the top 20% of risk scores, and serves predictions with plain-language risk drivers through a FastAPI service.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
 ![XGBoost](https://img.shields.io/badge/XGBoost-model-orange)
 ![Docker](https://img.shields.io/badge/Docker-image-2496ED)
 ![MLflow](https://img.shields.io/badge/MLflow-tracking-0194E2)
-![CI](https://github.com/ranjithguggilla/churn-guardian/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ranjithguggilla/churn-radar/actions/workflows/ci.yml/badge.svg)
 
 </td>
 <td width="50%" valign="top">
