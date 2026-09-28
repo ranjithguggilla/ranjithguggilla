@@ -1,6 +1,6 @@
 ## Hi, I'm Ranjith Guggilla
 
-**Gen AI / ML Engineer** · 4 years building LLM applications, RAG systems, and production machine learning pipelines on Azure and AWS.
+**Gen AI / ML Engineer** · building LLM applications, RAG systems, and production machine learning pipelines on Azure and AWS.
 
 I build Retrieval-Augmented Generation apps with Azure OpenAI, LangChain, and Azure AI Search, ship ML models behind FastAPI services, and care about the parts that make AI trustworthy in production: grounding, guardrails, evaluation, and monitoring.
 
@@ -20,16 +20,6 @@ I build Retrieval-Augmented Generation apps with Azure OpenAI, LangChain, and Az
 - **Document AI:** ingestion pipelines with Azure AI Document Intelligence, OCR, and chunking for semantic and vector search.
 - **Machine learning:** supervised models for risk, fraud, segmentation, and forecasting with scikit-learn, XGBoost, and Amazon SageMaker, tracked with MLflow.
 - **Production:** FastAPI and Flask inference APIs, Docker, Azure App Service, AWS Lambda, CI/CD with GitHub Actions and Azure DevOps, plus monitoring in Azure Monitor, CloudWatch, and Power BI.
-
----
-
-### Experience
-
-| Role | Company | Dates | Focus |
-|---|---|---|---|
-| **Gen AI Engineer** | Merck | Mar 2025 – present | RAG apps on Azure OpenAI + AI Search, document ingestion, Prompt Flow, LLM evaluation |
-| **AI/ML Engineer** | Capital One | Aug 2023 – Jul 2024 | SageMaker ML pipelines for credit risk and fraud, FastAPI inference, Bedrock POCs |
-| **Data Scientist** | CVS Retail | Jan 2022 – Jul 2023 | Predictive models for campaign targeting, Power BI reporting, SQL analytics |
 
 ---
 
