@@ -160,6 +160,6 @@ Python conversational voice assistant with speech recognition, text-to-speech, a
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-guggillaranjith17%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:guggillaranjith17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ranjithguggilla668%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ranjithguggilla668@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ranjithguggilla-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ranjithguggilla/)
 [![GitHub](https://img.shields.io/badge/GitHub-ranjithguggilla-181717?logo=github)](https://github.com/ranjithguggilla)
